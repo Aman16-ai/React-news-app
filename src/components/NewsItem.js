@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function NewsItem(props) {
     const s = {
-        width:"18rem"
+        width:"20rem"
     }
     return (
                 <div className="col">
